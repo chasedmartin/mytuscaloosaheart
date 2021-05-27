@@ -23,7 +23,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /favicon/favicon.ico
 
     footer:
         since:
@@ -38,7 +38,7 @@ params:
         subtitle: Not just bones.
         avatar:
             local: false
-            src: /memoji_wink.PNG
+            src: /avatar/memoji_wink.PNG
 
     article:
         math: false
