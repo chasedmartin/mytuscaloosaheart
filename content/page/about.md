@@ -7,7 +7,7 @@ menu:
         pre: user
 ---
 
-My name is Chase Martin. 👋🏻
+My name is Chase Martin. 🙋🏻‍♂️
 
 I currently reside in Huntsville, Alabama. 🚀
 
