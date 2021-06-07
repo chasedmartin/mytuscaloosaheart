@@ -8,7 +8,7 @@ title: My Tuscaloosa Heart
 disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
-googleAnalytics:
+# googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
@@ -23,11 +23,11 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /favicon/favicon.ico
+    favicon: /favicon.ico
 
-    footer:
-        since:
-        customText:
+    #footer:
+    #    since:
+    #    customText:
 
     dateFormat:
         published: Jan 02, 2006
