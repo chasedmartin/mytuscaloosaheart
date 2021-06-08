@@ -1,7 +1,7 @@
 ---
 title: "Why My Tuscaloosa Heart?"
 date: 2021-06-06T21:00:47-05:00
-draft: true
+draft: false
 image: "kelso.webp"
 tags:
    - blog
