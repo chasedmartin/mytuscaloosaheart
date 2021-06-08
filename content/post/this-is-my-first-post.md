@@ -1,5 +1,6 @@
 ---
 title: "This Is My First Post"
+author: "Chase Martin"
 date: 2021-05-25T20:22:13-05:00
 draft: false
 tags:
