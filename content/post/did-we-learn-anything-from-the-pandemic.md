@@ -1,7 +1,7 @@
 ---
 title: "Did We Learn Anything From the Pandemic?"
 date: 2021-06-22T20:17:00-05:00
-draft: true
+draft: false
 author: "Chase Martin"
 tags:
     - covid
